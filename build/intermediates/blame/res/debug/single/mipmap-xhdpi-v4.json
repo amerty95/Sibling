@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ZORLU\\AndroidStudioProjects\\MultiProject\\Sibling\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ZORLU\\AndroidStudioProjects\\MultiProject\\Sibling\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZORLU\\AndroidStudioProjects\\MultiProject\\Sibling\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ZORLU\\AndroidStudioProjects\\MultiProject\\Sibling\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
